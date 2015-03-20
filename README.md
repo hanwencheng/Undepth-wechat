@@ -11,3 +11,9 @@
 文件夹里放了所有引用的图片
 
 
+
+https://help.github.com/articles/configuring-a-remote-for-a-fork/
+
+https://help.github.com/articles/syncing-a-fork/
+
+https://help.github.com/articles/using-pull-requests/
